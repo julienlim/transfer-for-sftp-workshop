@@ -1,5 +1,7 @@
 # Transfer for SFTP - Logical Directory demonstration
 
+This is a clone with some modifications (still work in progress) from https://github.com/aws-samples/transfer-for-sftp-logical-directories workshop.
+
 This sample code demonstrates how to configure per-user logical directory configurations as part of a custom identity provider for use with the 
 AWS Transfer for SFTP service.  To see the sample in action you can deploy the code into your AWS account now using one of the buttons below or you
 can clone this repository and explore the code for yourself.
